@@ -62,15 +62,16 @@ export function BasicCard(props) {
     >
       <CardContent>
         <Typography sx={{ fontSize: 14 }} color="text.secondary" gutterBottom>
-          Word of the Day
+          Perform your Puja as per Vedic rituals at Famous Hindu Temples in India with Sri Mandir
         </Typography>
         <Typography sx={{ mb: 1.5 }} color="text.secondary">
-          adjective
+          Participate Now!
         </Typography>
         <Typography variant="body2">
-          well meaning and kindly.
+          Book online puja with Sri Mandir in more than 500+ temples across India. Receive video of the puja along with the Prasad and receive blessings from the divine for prosperity and well-being of you and your family
+
           <br />
-          {'"a benevolent smile"'}
+        
         </Typography>
       </CardContent>
       <CardActions>
