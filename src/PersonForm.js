@@ -28,7 +28,7 @@ export default function FormDialog(props) {
     >
       <DialogTitle>Fill your details for pooja</DialogTitle>
       <DialogContent>
-        <DialogContentText>Enter your whatsap mobile number</DialogContentText>
+        <DialogContentText>Enter your whattsap mobile number</DialogContentText>
         <Box component="form">
           <Grid container spacing={1}>
             <Grid item xs={12}>
