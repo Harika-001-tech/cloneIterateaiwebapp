@@ -49,15 +49,17 @@ export function DetailsCard({ showButton }) {
     >
       <CardContent>
         <Typography sx={{ fontSize: 14 }} color="text.secondary" gutterBottom>
-          Word of the Day
+          Book online puja with Sri Mandir in more than 500+ temples across India. Receive video of the puja along with the Prasad and receive blessings from the divine for prosperity and well-being of you and your family
+
         </Typography>
         <Typography sx={{ mb: 1.5 }} color="text.secondary">
-          adjective
+          Participate Now!
         </Typography>
         <Typography variant="body2">
-          well meaning and kindly.
+          1008 Dakshinamurthy Mool Mantra Jaap and Havan and Omkareshwar Rudrabhishek
+               To Find Purpose and Achieve Stability in Life
           <br />
-          {'"a benevolent smile"'}
+        
         </Typography>
       </CardContent>
       <CardActions>
