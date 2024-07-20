@@ -56,8 +56,8 @@ export function DetailsCard({ showButton }) {
           Participate Now!
         </Typography>
         <Typography variant="body2">
-          1008 Dakshinamurthy Mool Mantra Jaap and Havan and Omkareshwar Rudrabhishek
-               To Find Purpose and Achieve Stability in Life
+          Ganesh Chaturthi Special Riddhi Siddhi Dayak Ganesh Aavahan Puja
+
           <br />
         
         </Typography>
