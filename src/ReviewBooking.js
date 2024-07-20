@@ -56,7 +56,7 @@ export function DetailsCard({ showButton }) {
         </Typography>
         <Typography variant="body2">
          
-      Till now2,00,000+Devoteeshave participated in Pujas conducted by Sri Mandir Puja Seva.
+      Till now 2,00,000+ Devoteeshave participated in Pujas conducted by Sri Mandir Puja Seva.
 
 
 
