@@ -46,13 +46,16 @@ export function DetailsCard() {
     >
       <CardContent>
         <Typography sx={{ fontSize: 14 }} color="text.secondary" gutterBottom>
-          Word of the Day
+          Puja Seva for you and your loved ones
+
         </Typography>
         <Typography sx={{ mb: 1.5 }} color="text.secondary">
-          adjective
+          Book Pujas in your and your family's name at 1000+ renowned temples in India. You will also receive a video of the Puja and Prasad along with divine blessings.
+
+
         </Typography>
         <Typography variant="body2">
-          well meaning and kindly.
+          Perform your Puja as per Vedic rituals at Famous Hindu Temples in India with Sri Mandir
           <br />
           {'"a benevolent smile"'}
         </Typography>
