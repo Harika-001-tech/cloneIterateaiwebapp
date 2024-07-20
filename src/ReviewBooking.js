@@ -55,14 +55,9 @@ export function DetailsCard({ showButton }) {
           Participate Now!
         </Typography>
         <Typography variant="body2">
-         
-      Till now 2,00,000+ Devoteeshave participated in Pujas conducted by Sri Mandir Puja Seva.
-
-
-
-          <br />
-        
-        </Typography>
+      Thousands of Devootees participated in the Pooja!
+      <br />
+    </Typography>
       </CardContent>
       <CardActions>
         {showButton && (
