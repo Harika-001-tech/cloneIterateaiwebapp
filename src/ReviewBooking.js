@@ -49,14 +49,16 @@ export function DetailsCard({ showButton }) {
     >
       <CardContent>
         <Typography sx={{ fontSize: 14 }} color="text.secondary" gutterBottom>
-          Book online puja with Sri Mandir in more than 500+ temples across India. Receive video of the puja along with the Prasad and receive blessings from the divine for prosperity and well-being of you and your family
-
+           Ganesh Chaturthi Special Riddhi Siddhi Dayak Ganesh Aavahan Puja
         </Typography>
         <Typography sx={{ mb: 1.5 }} color="text.secondary">
           Participate Now!
         </Typography>
         <Typography variant="body2">
-          Ganesh Chaturthi Special Riddhi Siddhi Dayak Ganesh Aavahan Puja
+         
+      Till now2,00,000+Devoteeshave participated in Pujas conducted by Sri Mandir Puja Seva.
+
+
 
           <br />
         
