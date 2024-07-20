@@ -19,8 +19,8 @@ const PoojaDetail = () => {
         <Grid container justifyContent="center" spacing={1} marginTop={2}>
           <Grid item>
             <img
-              srcSet={`https://images.unsplash.com/photo-1551963831-b3b1ca40c98e?w=400&h=400&fit=crop&auto=format&dpr=2 2x`}
-              src={`https://images.unsplash.com/photo-1551963831-b3b1ca40c98e?w=400&h=400&fit=crop&auto=format`}
+              srcSet={`https://cdn.pixabay.com/photo/2024/07/16/00/23/ai-generated-8898089_1280.jpg 2x`}
+              src={`https://cdn.pixabay.com/photo/2024/07/16/00/23/ai-generated-8898089_1280.jpg`}
               alt={"breakfast"}
               loading="lazy"
             />
