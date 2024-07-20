@@ -28,3 +28,17 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## features
+ Frontend Development
+ - **Create Components**: Break down the website into smaller reusable React components.
+    - **Navigation Bar**: Create a component to handle site navigation.
+    - **Page Components**: Create different components for different pages, for example, Home, Puja, Bookings, etc.
+    - **Reusable Components**: Elements like buttons, forms, and list items should be modular.
+- **Styling**: Use CSS or a CSS framework like Bootstrap to style the components and ensure that the UI matches the original site
+
+- ## this is static website
+- This website has navigation from my puja Bookings only and no database used  
+## Deployment
+this website is deployed using Vercel 
+## Navigation 
+this site has navigation from puja bookings>>No bookings>> particapte now >> select Pooja package>>fill the form>> next >>Thank you page
