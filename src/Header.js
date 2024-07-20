@@ -54,7 +54,7 @@ function Header() {
               fontFamily: "monospace",
               fontWeight: 700,
               letterSpacing: ".3rem",
-              color: #eab676,
+              color: "inherit",
               textDecoration: "none",
             }}
           >
