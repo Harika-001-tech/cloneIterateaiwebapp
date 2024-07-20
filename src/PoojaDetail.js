@@ -57,7 +57,7 @@ export function DetailsCard() {
         <Typography variant="body2">
           Perform your Puja as per Vedic rituals at Famous Hindu Temples in India with Sri Mandir
           <br />
-          {'"a benevolent smile"'}
+        
         </Typography>
       </CardContent>
       <CardActions>
