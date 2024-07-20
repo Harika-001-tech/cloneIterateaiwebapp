@@ -47,15 +47,17 @@ export function BasicCard() {
     >
       <CardContent>
         <Typography sx={{ fontSize: 14 }} color="text.secondary" gutterBottom>
-          Word of the Day
+          Shani Saade Saati Peeda Shanti Mahapuja and Til Tel Abhishek
+              For Prevention of Misfortunes and Adversities
         </Typography>
         <Typography sx={{ mb: 1.5 }} color="text.secondary">
-          adjective
+          Particpate Now!
         </Typography>
         <Typography variant="body2">
-          well meaning and kindly.
+        Book online puja with Sri Mandir in more than 500+ temples across India. Receive video of the puja along with the Prasad and receive blessings from the divine for prosperity and well-being of you and your family
+
           <br />
-          {'"a benevolent smile"'}
+        
         </Typography>
       </CardContent>
       <CardActions>
